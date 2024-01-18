@@ -3,4 +3,4 @@
 
 
 # 2. Airplane Project Diagram
-![](media/AIRLINES.png)
+![](img/AIRLINES.png)
