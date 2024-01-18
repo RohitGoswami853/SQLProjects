@@ -1,5 +1,5 @@
---Create Database Retail
---Use Retail
+Create Database Retail
+Use Retail
 
 CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY,
