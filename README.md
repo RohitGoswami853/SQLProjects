@@ -6,3 +6,7 @@
 
 # 2. Airplane Project Diagram
 ![](img/airline.png)
+
+
+# 3. Hotel Booking Project Diagram
+![](img/hotel.png)
